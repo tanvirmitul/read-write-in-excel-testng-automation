@@ -30,8 +30,13 @@ allure serve allure-results
  ```
 
 **Below is my allure overview report**:
+
 ![allurereportoverview](https://user-images.githubusercontent.com/59876702/209106178-a85238b9-80fb-488a-9f92-24991675f111.png)
+
 **Here is package of this project**:
+
 ![package](https://user-images.githubusercontent.com/59876702/209106293-47158ffa-2c19-4965-a2a7-6dea9bca7331.png)
+
 **Here are the suites of this project**:
+
 ![Testsuitereport](https://user-images.githubusercontent.com/59876702/209106316-dfd8cd0f-7314-4ff0-b8a1-fa8f8eb65393.png)
