@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Orange HRM Admin Login Automation Suite">
+    <test name="User can successfully read and write in excel sheet">
+        <classes>
+            <class name="testRunner.ReadWriteExclTestRunner"/>
+        </classes>
+    </test>
+</suite>
